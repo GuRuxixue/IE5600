@@ -70,13 +70,13 @@ date2 = []
 import imageio
 def compose_gif():
     img_paths=[]
-    for i in range(102,517,6):
-        img_paths.append('10yeargraph/'+str(i)+'.png')
+    for i in range(102,247,2):
+        img_paths.append('1yeargraph/'+str(i)+'.png')
     gif_images = []
     for path in img_paths:
         gif_images.append(imageio.imread(path))
-    for i in range(5):
-        gif_images.append(imageio.imread('10yeargraph/516.png'))
-    imageio.mimwrite("10year.gif",gif_images,format='GIF',loop=0,fps=100)
+    for i in range(100):
+        gif_images.append(imageio.imread('1yeargraph/246.png'))
+    imageio.mimwrite("1years.gif",gif_images,format='GIF',loop=0,fps=100)
 compose_gif()
 axs1.grid(b=True,axis='both')
