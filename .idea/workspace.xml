@@ -1,16 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="88f1b569-79f0-4702-8a7a-0f877eb7d732" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/500PE.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/S&amp;P_500_PE.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SG PE Ratio.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.ipynb_checkpoints/IE5600 EQ Test-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/.ipynb_checkpoints/IE5600 EQ Test-checkpoint.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/IE5600 EQ Test.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/IE5600 EQ Test.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ruixue.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Ruixue.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Team Project Discussion- Updated 12-09-20.pptx" beforeDir="false" afterPath="$PROJECT_DIR$/Team Project Discussion- Updated 12-09-20.pptx" afterDir="false" />
-    </list>
+    <list default="true" id="88f1b569-79f0-4702-8a7a-0f877eb7d732" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -156,7 +147,7 @@
       <workItem from="1599658145323" duration="1373000" />
       <workItem from="1599914571711" duration="1191000" />
       <workItem from="1600039644343" duration="6706000" />
-      <workItem from="1600169027252" duration="39716000" />
+      <workItem from="1600169027252" duration="40371000" />
     </task>
     <servers />
   </component>
