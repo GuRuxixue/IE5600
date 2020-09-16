@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="88f1b569-79f0-4702-8a7a-0f877eb7d732" name="Default Changelist" comment="" />
+    <list default="true" id="88f1b569-79f0-4702-8a7a-0f877eb7d732" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/IE5600 EQ Test.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/IE5600 EQ Test.ipynb" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -148,6 +151,7 @@
       <workItem from="1599914571711" duration="1191000" />
       <workItem from="1600039644343" duration="6706000" />
       <workItem from="1600169027252" duration="40798000" />
+      <workItem from="1600253413965" duration="741000" />
     </task>
     <servers />
   </component>
