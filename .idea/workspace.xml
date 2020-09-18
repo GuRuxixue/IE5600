@@ -2,14 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="88f1b569-79f0-4702-8a7a-0f877eb7d732" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Crc.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/G.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PB.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/radar_1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/radar_2.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.ipynb_checkpoints/IE5600_latest-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/.ipynb_checkpoints/IE5600_latest-checkpoint.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/IE5600_latest.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/IE5600_latest.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/S&amp;P_500_PE.png" beforeDir="false" afterPath="$PROJECT_DIR$/S&amp;P_500_PE.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/STI_EQ.csv" beforeDir="false" afterPath="$PROJECT_DIR$/STI_EQ.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/STI_EQ2.csv" beforeDir="false" afterPath="$PROJECT_DIR$/STI_EQ2.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/YahooFinal.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/YahooFinal.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -62,7 +59,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../HW" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
@@ -158,6 +155,7 @@
       <workItem from="1600039644343" duration="6706000" />
       <workItem from="1600169027252" duration="40798000" />
       <workItem from="1600253413965" duration="8069000" />
+      <workItem from="1600423189567" duration="1252000" />
     </task>
     <servers />
   </component>
@@ -168,26 +166,30 @@
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="740" y="277" key="FileChooserDialogImpl" timestamp="1600429774284">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="740" y="277" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1600429774284" />
     <state x="0" y="0" key="FileDocumentManager.FileCacheConflict" timestamp="1600227786975">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="0" y="0" key="FileDocumentManager.FileCacheConflict/0.0.1920.1040@0.0.1920.1040" timestamp="1600227786975" />
-    <state width="1877" height="200" key="GridCell.Tab.0.bottom" timestamp="1600267096897">
+    <state width="1877" height="263" key="GridCell.Tab.0.bottom" timestamp="1600423627885">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="200" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1600267096897" />
-    <state width="1877" height="200" key="GridCell.Tab.0.center" timestamp="1600267096896">
+    <state width="1877" height="263" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1600423627885" />
+    <state width="1877" height="263" key="GridCell.Tab.0.center" timestamp="1600423627884">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="200" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1600267096896" />
-    <state width="1877" height="200" key="GridCell.Tab.0.left" timestamp="1600267096896">
+    <state width="1877" height="263" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1600423627884" />
+    <state width="1877" height="263" key="GridCell.Tab.0.left" timestamp="1600423627884">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="200" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1600267096896" />
-    <state width="1877" height="200" key="GridCell.Tab.0.right" timestamp="1600267096897">
+    <state width="1877" height="263" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1600423627884" />
+    <state width="1877" height="263" key="GridCell.Tab.0.right" timestamp="1600423627884">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="200" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1600267096897" />
+    <state width="1877" height="263" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1600423627884" />
     <state x="0" y="168" key="SettingsEditor" timestamp="1600220725672">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
